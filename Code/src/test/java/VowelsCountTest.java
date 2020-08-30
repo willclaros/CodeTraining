@@ -1,14 +1,3 @@
-/*
- *
- *  @(#)<Name Class>.java
- *
- *  Copyright (c) 2020 Code Training.
- *  All rights reserved.
- *
- *  This software is the confidential and proprietary information.  You shall not  disclose such Confidential
- *  Information and shall use it only in accordance with the terms of the license agreement.
- *
- */
 
 import org.junit.Assert;
 import org.junit.Before;
