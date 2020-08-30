@@ -1,3 +1,16 @@
+/*
+ *
+ *   @(#)BitCounting.java
+ *
+ *   Copyright (c) 2020 Code Training.
+ *   Av Circunvalación, Pacata, Cochabamba, Bolivia.
+ *   All rights reserved.
+ *
+ *   This software is the confidential and proprietary information.  You shall not  disclose such Confidential
+ *   Information and shall use it only in accordance with the terms of the license agreement.
+ *
+ */
+
 public class BitCounting {
 
     /**
